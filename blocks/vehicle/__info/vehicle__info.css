@@ -1,0 +1,9 @@
+.vehicle__info{
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  left: 375px;
+  bottom: 59px;
+  min-width: 283px;
+  z-index: 2;
+}

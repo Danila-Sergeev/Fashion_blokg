@@ -1,0 +1,8 @@
+.header__menu{
+  position: absolute;
+  top: 42px;
+  right: 81px;
+  display: flex;
+  justify-content: space-between;
+  width: 368px;
+}

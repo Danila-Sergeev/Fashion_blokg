@@ -1,0 +1,8 @@
+.page__vehicle{
+  background-image: url(../../../../Fashion-Blog/img/Your\ images\ here.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 700px;
+  position: relative;
+}
