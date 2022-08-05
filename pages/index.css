@@ -32,5 +32,10 @@
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__subtitle/card__subtitle.css);
 @import url(../blocks/card/__info/card__info.css);
+@import url(../blocks/big-card/big-card.css);
+@import url(../blocks/big-card/__title/big-card__title.css);
+@import url(../blocks/big-card/__subtitle/big-card__subtitle.css);
+@import url(../blocks/big-card/__info/big-card__info.css);
+@import url(../blocks/big-card/__text/big-card__text.css);
 
 @import url(../blocks/footer/footer.css);

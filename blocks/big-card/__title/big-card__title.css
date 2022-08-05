@@ -1,0 +1,9 @@
+.big-card__title{
+  color: #C9A96E;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  margin: 25px auto 15px 30px;
+}
