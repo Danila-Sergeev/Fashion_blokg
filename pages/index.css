@@ -4,6 +4,7 @@
 @import url(../blocks/page/__footer/page__footer.css);
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__vehicle/page__vehicle.css);
+@import url(../blocks/page/__cards/page__cards.css);
 
 @import url(../blocks/title/title.css);
 @import url(../blocks/subtitle/subtitle.css);
@@ -21,5 +22,15 @@
 @import url(../blocks/vehicle/__subtitle/vehicle__subtitle.css);
 @import url(../blocks/vehicle/__title/vehicle__title.css);
 @import url(../blocks/vehicle/__grad/vehicle__grad.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/column/column.css);
+@import url(../blocks/column/__card/column__card.css);
+@import url(../blocks/cards/__column/cards__column.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__img/card__img.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__subtitle/card__subtitle.css);
+@import url(../blocks/card/__info/card__info.css);
 
 @import url(../blocks/footer/footer.css);

@@ -1,0 +1,7 @@
+.cards__column{
+  max-width: 770px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 80px;
+}
