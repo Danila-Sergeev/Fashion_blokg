@@ -1,0 +1,6 @@
+.footer__box{
+  max-width: 304px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}

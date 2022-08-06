@@ -67,6 +67,17 @@
 @import url(../blocks/teg-box/__title/teg-box__title.css);
 @import url(../blocks/teg-box/__conteiner/teg-box__conteiner.css);
 
+@import url(../blocks/follow/follow.css);
+@import url(../blocks/follow/__title/follow__title.css);
+@import url(../blocks/follow/__box/follow__box.css);
+@import url(../blocks/follow/__img/follow__img.css);
 
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__img/footer__img.css);
+@import url(../blocks/footer/__box/footer__box.css);
+@import url(../blocks/footer/__border/footer__border.css);

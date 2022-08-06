@@ -1,0 +1,6 @@
+.footer__links{
+  max-width: 353px;
+  display: flex;
+  justify-content: space-between;
+  margin: 70px auto 20px auto;
+}
