@@ -7,6 +7,9 @@
 @import url(../blocks/page/__cards/page__cards.css);
 @import url(../blocks/page/_pagination/page_pagination.css);
 @import url(../blocks/page/__snd-column/page__second-column.css);
+@import url(../blocks/page/__catigory/page__catigory.css);
+@import url(../blocks/page/__pic-box/page__pic-box.css);
+@import url(../blocks/page/__teg-box/page__teg-box.css);
 
 @import url(../blocks/title/title.css);
 @import url(../blocks/subtitle/subtitle.css);
@@ -50,5 +53,20 @@
 @import url(../blocks/main-card/__subtitle/main-card__subtitle.css);
 @import url(../blocks/main-card/__text/main-card__text.css);
 @import url(../blocks/main-card/__info/main-card__info.css);
+
+@import url(../blocks/catigory/catigory.css);
+@import url(../blocks/catigory/__text/catigory__text.css);
+@import url(../blocks/catigory/__namber/catigory__namber.css);
+
+@import url(../blocks/pic-box/pic-box.css);
+@import url(../blocks/pic-box/__title/pic-box__title.css);
+@import url(../blocks/pic-box/__img/pic-box__img.css);
+@import url(../blocks/pic-box/__container/pic-box_container.css);
+
+@import url(../blocks/teg-box/teg-box.css);
+@import url(../blocks/teg-box/__title/teg-box__title.css);
+@import url(../blocks/teg-box/__conteiner/teg-box__conteiner.css);
+
+
 
 @import url(../blocks/footer/footer.css);

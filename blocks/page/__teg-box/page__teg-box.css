@@ -1,0 +1,8 @@
+.page__teg-box{
+  width: 270px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: center;
+  margin-bottom: 40px;
+}

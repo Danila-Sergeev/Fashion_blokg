@@ -1,0 +1,11 @@
+.page__catigory{
+  display: flex;
+  justify-content: space-between;
+  border-bottom:  1px solid #E5E5E5;
+  cursor: pointer;
+}
+
+.page__catigory:nth-of-type(5n){
+  margin-bottom: 30px;
+  border-bottom: none;
+}
