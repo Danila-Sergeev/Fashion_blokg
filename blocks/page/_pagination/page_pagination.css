@@ -1,0 +1,10 @@
+.page_pagination{
+  max-width: 509px;
+  min-height: 50px;
+  border: 1px solid #E5E5E5;
+  display: flex;
+  justify-content: space-around;
+  margin: 40px auto;
+  align-items: center;
+
+}

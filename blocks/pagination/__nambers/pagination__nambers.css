@@ -1,0 +1,12 @@
+.pagination__nambers{
+  font-size: 14px;
+  line-height: 16px;
+  color: #171717;
+  text-decoration: none;
+}
+
+.pagination__nambers:hover{
+  color: #A2A2A2;
+}
+
+

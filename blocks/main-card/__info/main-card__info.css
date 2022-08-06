@@ -1,0 +1,13 @@
+.main-card__info{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #C9A96E;
+  border-top: 1px solid #E5E5E5;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
